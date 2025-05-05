@@ -3,6 +3,13 @@
 <!--
 **utnmaterias/utnmaterias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt="Matrix" width="100%" />
+</p>
+
+<h2 align="center">👋 ¡Hola, soy [Tu Nombre]!</h2>
+<p align="center">Desarrollador | Apasionado por la tecnología | Siempre aprendiendo</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

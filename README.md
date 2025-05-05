@@ -21,5 +21,7 @@
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt="Matrix" width="100%" />
 </p>
 
+![Github Stars](https://github-readme-stats.vercel.app/api?username=utnmaterias&show_icons=true&locale=es&custom_title=Estadisticas%20Github&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utnmaterias&custom_title=Lenguajes%20Mas%20Usados&theme=algolia&layout=compact)
+
 
 

@@ -4,6 +4,9 @@
 -->
 
 <h2 align="center">Hola Bienvenidos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> soy Anibal Zanutti!</h2>
+
+![Visitor](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Visitantes) [![GitHub followers](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Seguidores)](https://github.com/utnmaterias?tab=followers)<br/>
+
 <p align="center">Desarrollador C++ | Apasionado por la tecnología | Siempre aprendiendo</p>
 
 🔭 Actualmente estoy buscando trabajo.  

@@ -5,8 +5,13 @@
 
 <h2 align="center">Hola Bienvenidos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> soy Anibal Zanutti!</h2>
 <p align="center">Desarrollador C++ | Apasionado por la tecnología | Siempre aprendiendo</p>
+<!--
+![Visitor](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Visitantes) 
+-->
 
-![Visitor](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Visitantes) [![GitHub followers](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Seguidores)](https://github.com/utnmaterias?tab=followers)<br/>
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=utnmaterias&left_text=Visitantes)
+[![Seguidores](https://img.shields.io/github/followers/utnmaterias.svg?style=social&label=Seguidores)](https://github.com/utnmaterias?tab=followers)<br/>
 
 🔭 Actualmente estoy buscando trabajo.  
 🌱 Estoy estudiando en la UTN FRBA, Ingeniería en Sistemas.  
